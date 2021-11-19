@@ -70,6 +70,9 @@ end
 -- obs의 input source 중 마이크를 골라서 mic 변수에 연동
 -- https://obsproject.com/docs/scripting.html#script-sources-lua-only 
 -- https://dev.to/hectorleiva/start-to-write-plugins-for-obs-with-lua-1172?fbclid=IwAR2_oLcHhzYgUxPo137RoiCkzxo8J7KymLrPzJYXCe2jZNclc7zDiIfzKA0
+-- https://github.com/hectorleiva/obs_current_date/blob/master/current_date.lua 예제참고
+-- obs_properties_add_text 대신 obs_properties_add_int_slider 를 쓰면 토글 슬라이더가 되지 않을까?
+
 -- 에서 찾아볼 것
 ----------------------------------------------------------
 
